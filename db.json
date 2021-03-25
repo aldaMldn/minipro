@@ -1,1 +1,107 @@
-{"customers":[{"id":1,"title":"hello"}],"products":[{"id":1,"title":"hello"}],"items":[{"id":1,"title":"hello"}],"coupons":[{"id":1,"title":"hello"}]}
+{
+  "customers":[
+    {
+      "id":1,
+      "phone":"087874703639",
+      "user_name":"Anton",
+      "password":"anton123",
+      "role":"user"
+    },
+    {
+      "id":2,
+      "phone":"087874703636",
+      "user_name":"Nadia",
+      "password":"nadia123",
+      "role":"user"
+    }
+  ],
+  "products":[
+      {
+          "id":1,
+          "name": "Sandwitch Tuna",
+          "price": 12000
+      },
+      {
+          "id": 2,
+          "name": "Sandwitch Chiken",
+          "price": 10000
+      },
+      {
+          "id": 3,
+          "name": "Sandwitch Original",
+          "price": 10000
+      },
+      {
+          "id": 4,
+          "name": "Coffe Latte",
+          "price": 14000
+      },
+      {
+          "id": 5,
+          "name": "Coffe Original",
+          "price": 12000
+      },
+      {
+          "id": 6,
+          "name": "Coffe Creamy Latte",
+          "price": 16000
+      },
+      {
+          "id": 7,
+          "name": "Black Coffe",
+          "price": 4000
+      },
+      {
+          "id": 8,
+          "name": "Keripik Kusuka",
+          "price": 4000
+      },
+      {
+          "id": 9,
+          "name": "MR P Original",
+          "price": 6000
+      },
+      {
+          "id": 10,
+          "name": "MR P Caramel",
+          "price": 7500
+      },
+      {
+          "id": 11,
+          "name": "Tissue OR",
+          "price": 22000
+      },
+      {
+          "id": 12,
+          "name": "Chips Ahoy",
+          "price": 4000
+      },
+      {
+          "id": 13,
+          "name": "Oreo Vanilla",
+          "price": 9000
+      },
+      {
+          "id": 14,
+          "name": "Oreo Chocolate",
+          "price": 9000
+      },
+      {
+          "id": 15,
+          "name": "Frutang",
+          "price": 4000
+      }
+  ],
+  "items":[
+    {
+      "id":1,
+      "title":"hello"
+    }
+  ],
+  "coupons":[
+    {
+      "id":1,
+      "title":"hello"
+    }
+  ]
+}
